@@ -1,0 +1,43 @@
+h1{
+
+    font-size: 60px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+margin: 15px;
+ba
+}
+.flexible-container{
+
+display: flex;
+
+
+}
+.name-color{
+    color: crimson;
+}
+
+.width-half{
+
+    width: 50%;
+}
+.link-button{
+text-decoration: none;
+background-image: linear-gradient(salmon,tomato);
+padding: 10px 30px;
+border-radius: 10px;
+font-weight: 700;
+
+
+
+}
+#align-link-button{
+    text-align: center;
+    vertical-align:bottom;
+    
+}
+.top-banner{
+
+    background-image: url(images/top-banner.png);
+    margin: 0px;
+}
